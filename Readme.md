@@ -22,7 +22,8 @@ __Getting Started__
 
 __Installation__
 
-Clone this repository: git clone <repository-url>
+Clone this repository: git clone  https://github.com/NeuralVisionary/Message_spam_classifier_NLP.git
+
 Navigate to the project directory: cd text_spam_classifier
 
 __Usage__
